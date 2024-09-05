@@ -11,4 +11,4 @@ This project is a solution to a Frontend Mentor challenge, built using only HTML
 - CSS3 for styling, including Flexbox and Grid for layout
 
 ## Preview
-Visit https://dawtomwp.github.io/recipe-website/
+Visit https://adam6958.github.io/recipe-website-/
