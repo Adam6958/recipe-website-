@@ -9,5 +9,6 @@ This project is a solution to a Frontend Mentor challenge, built using only HTML
 ## Technologies Used
 - HTML5 for structure
 - CSS3 for styling, including Flexbox and Grid for layout
-- ## Preview
-Visit 
+
+## Preview
+Visit https://dawtomwp.github.io/recipe-website/
